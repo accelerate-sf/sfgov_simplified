@@ -12,3 +12,6 @@ San Francisco's official website, SFGOV, serves as a central hub for a multitude
 ### Expected Outcomes:
 
 A user-friendly interface that offers quick access to the information housed on the SFGOV website.
+
+## Example Hackathon Projects
+* https://devpost.com/software/better-sf-gov-search
